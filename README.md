@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darwin Samuel Machuca Gonazalez</h1>
+<h3 align="center">Soy Darwin samuel machuca, soy un apasionado a la programación, me encanta innovar y encontrar soluciones creativas para problemas complejos.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darwin-max&label=Profile%20views&color=0e75b6&style=flat" alt="darwin-max" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darwin-max" alt="darwin-max" /></a> </p>
